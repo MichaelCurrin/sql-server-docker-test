@@ -60,17 +60,19 @@ Credentials:
 
 Install https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
 
-Connect.
+Connect using details above. Enable trust if there is an error.
 
-Enable trust if there is an error.
+Execute query:
+
+1. Open a `.sql` file.
+1. Open the command prompt in VS Code.
+1. Select "MS SQL: Connect" or "MS SQL: Execute Query". Pick the `sa` user option.
 
 ### DB tool
 
 Download Azure Data Studio https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio
 
-Under Connections, create server.
-
-Set Encrypt as Optional.
+Under Connections, create server using details above. Set Encrypt as Optional.
 
 
 ## Links

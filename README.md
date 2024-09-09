@@ -40,8 +40,8 @@ $ make sql
 
 ### Run SQL in the database
 
-1. Connect to the Bash shell as above.
-1. Run the shell script in the container:
+1. Start a Bash shell in the container as above.
+1. Run the shell script there:
     ```sh
     $ cd /app/scripts/
     $ ./main.sh

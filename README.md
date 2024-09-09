@@ -40,16 +40,16 @@ $ make sql
 
 ### Run SQL in the database
 
-Connect to the Bash shell as above.
+1. Connect to the Bash shell as above.
+1. Run the shell script in the container:
+    ```sh
+    $ cd /app/scripts/
+    $ ./main.sh
+    ```
 
-Run the shell script in the container:
+## Connect with DB UI
 
-```sh
-$ cd /app/scripts
-$ ./main.sh
-```
-
-## Connect with UI
+Connect to the DB in the container using desktops apps. Then you can run the `.sql` files in [scripts](/scripts/).
 
 Credentials:
 

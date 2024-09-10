@@ -83,7 +83,4 @@ https://hub.docker.com/r/microsoft/mssql-server
 
 ### DB UI tools
 
-- DBeaver https://dbeaver.io/
-- Navicat, paid tool https://www.navicat.com/en
-- SQL Server Management Studio instructions (may need to find community of free version). https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
-- DataGrip
+See [DB client cheatsheet](https://michaelcurrin.github.io/dev-resources/resources/tools/db-client.html)
